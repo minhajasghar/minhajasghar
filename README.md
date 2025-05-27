@@ -1,8 +1,10 @@
 # Hi, I'm Minhaj Asghar! 👋
 
 ## About Me
-I am a 5th semester BS Artificial Intelligence student passionate about leveraging Python to solve real-world problems.  
-I enjoy working on projects related to Machine Learning, Natural Language Processing (NLP), OpenCV, and Data Science.
+I am a 5th semester **BS Artificial Intelligence** student passionate about leveraging **Python** to solve real-world problems.  
+I enjoy working on projects related to **Machine Learning**, **Natural Language Processing (NLP)**, **OpenCV**, and **Data Science**.
+
+---
 
 ## Skills
 - **Programming Languages:** Python (OOP, Data Structures & Algorithms)  
@@ -10,18 +12,38 @@ I enjoy working on projects related to Machine Learning, Natural Language Proces
 - **Domains:** Machine Learning, Data Analysis, Data Science, Natural Language Processing, Computer Vision  
 - **Web Technologies:** HTML, CSS
 
+---
+
 ## Projects & Work
-- Developed Machine Learning models for classification and regression tasks  
+- Developed machine learning models for classification and regression tasks  
 - Implemented NLP projects including text processing and sentiment analysis  
-- Built Computer Vision applications using OpenCV for image and video processing  
-- Hands-on experience with Data Analysis and Visualization using Pandas and Matplotlib  
-
-## Connect with me
-
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://linkedin.com/in/minhajasghar)  
-[![Kaggle](https://cdn-icons-png.flaticon.com/24/5968/5968846.png)](https://kaggle.com/minhajasghar)  
-[![Email](https://cdn-icons-png.flaticon.com/24/561/561127.png)](mailto:minhaj.email@example.com)
+- Built computer vision applications using OpenCV for image and video processing  
+- Hands-on experience with data analysis and visualization using Pandas and Matplotlib  
 
 ---
 
+## Connect with me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/40/174/174857.png" alt="LinkedIn" width="40" height="40" />
+</a>
+
+<a href="https://kaggle.com/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/40/5968/5968846.png" alt="Kaggle" width="40" height="40" />
+</a>
+
+<a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/40/561/561127.png" alt="Email" width="40" height="40" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhajasghar&show_icons=true&theme=radical)
+
+</div>
