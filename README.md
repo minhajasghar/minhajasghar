@@ -36,7 +36,7 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, **C
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 
-  <a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:minhajasghar5@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
