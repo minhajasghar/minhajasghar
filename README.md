@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Minhaj! 👋
 
-<!--
-**minhajasghar/minhajasghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a 5th semester BS Artificial Intelligence student passionate about Python, Data Science, and Machine Learning.
 
-Here are some ideas to get you started:
+## Skills
+- Python (OOP, DSA)
+- Pandas, NumPy
+- Machine Learning (Scikit-learn)
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Data Analysis with Pandas [link to repo]
+- ML Model for Handwritten Digit Classification [link to repo]
+
+## Connect with me
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Kaggle](https://kaggle.com/yourprofile) | [Email](mailto:your.email@example.com)
+
+---
+
+![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhajasghar&show_icons=true&theme=radical)
