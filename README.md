@@ -26,13 +26,22 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, **C
 
 ## Connect with me
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhajasghar)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/minhajasghar)  
-[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhaj.email@example.com)
+  <a href="https://linkedin.com/in/minhajasghar" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://kaggle.com/minhajasghar" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+
+  <a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
+
 
 ---
 
