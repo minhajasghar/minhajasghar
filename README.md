@@ -26,17 +26,24 @@ I enjoy working on projects related to **Machine Learning**, **Natural Language 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" />
+<a href="https://linkedin.com/in/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2"/>
 </a>
 
-<a href="https://kaggle.com/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg?raw=true" alt="Kaggle" width="40" height="40" />
+<a href="https://kaggle.com/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="fill:#20BEFF"/>
 </a>
 
-<a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/maildotru.svg?raw=true" alt="Email" width="40" height="40" />
+<a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="40" height="40" style="fill:#D44638"/>
 </a>
 
 </div>
 
+---
+
+<div align="center">
+
+![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhajasghar&show_icons=true&theme=radical)
+
+</div>
