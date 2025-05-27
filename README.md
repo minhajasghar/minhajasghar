@@ -1,24 +1,26 @@
 # Hi, I'm Minhaj Asghar! 👋
 
 ## About Me
-I am a 5th semester **BS Artificial Intelligence** student passionate about leveraging **Python** to solve real-world problems.  
-I enjoy working on projects related to **Machine Learning**, **Natural Language Processing (NLP)**, **OpenCV**, and **Data Science**.
+I am a 5th semester **BS Artificial Intelligence** student with a passion for solving real-world problems using **Python**.  
+I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision (OpenCV)**, and **Data Science** projects.
 
 ---
 
 ## Skills
+
 - **Programming Languages:** Python (OOP, Data Structures & Algorithms)  
 - **Libraries & Tools:** Pandas, NumPy, Scikit-learn, OpenCV, NLTK, Matplotlib  
-- **Domains:** Machine Learning, Data Analysis, Data Science, Natural Language Processing, Computer Vision  
+- **Domains:** Machine Learning, Data Analysis, NLP, Computer Vision  
 - **Web Technologies:** HTML, CSS
 
 ---
 
-## Projects & Work
-- Developed machine learning models for classification and regression tasks  
-- Implemented NLP projects including text processing and sentiment analysis  
-- Built computer vision applications using OpenCV for image and video processing  
-- Hands-on experience with data analysis and visualization using Pandas and Matplotlib  
+## Projects & Experience
+
+- Developed ML models for classification and regression problems  
+- Built NLP pipelines for text processing & sentiment analysis  
+- Created Computer Vision applications with OpenCV for image/video processing  
+- Performed data analysis and visualization using Pandas and Matplotlib  
 
 ---
 
@@ -26,17 +28,9 @@ I enjoy working on projects related to **Machine Learning**, **Natural Language 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2"/>
-</a>
-
-<a href="https://kaggle.com/minhajasghar" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="fill:#20BEFF"/>
-</a>
-
-<a href="mailto:minhaj.email@example.com" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="40" height="40" style="fill:#D44638"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhajasghar)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/minhajasghar)  
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhaj.email@example.com)
 
 </div>
 
