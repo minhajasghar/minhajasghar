@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/minhajasghar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://fiverr.com/yourusername" target="_blank">
+  <a href="https://fiverr.com/minhaj_asghar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Fiverr" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://kaggle.com/minhajasghar" target="_blank">
