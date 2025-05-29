@@ -31,6 +31,9 @@
   <a href="https://linkedin.com/in/minhajasghar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://fiverr.com/yourusername" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fiverr.svg" alt="Fiverr" width="40" height="40" />
+  </a>
   <a href="https://kaggle.com/minhajasghar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
