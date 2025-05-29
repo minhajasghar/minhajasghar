@@ -32,7 +32,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://fiverr.com/minhaj_asghar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Fiverr" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Fiverr_Logo_2022.svg" alt="Fiverr" width="80" height="25" style="margin: 0 10px;" />
   </a>
   <a href="https://kaggle.com/minhajasghar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Kaggle" width="40" height="40" style="margin: 0 10px;" />
