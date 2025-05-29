@@ -29,18 +29,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/minhajasghar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fiverr.com/minhaj_asghar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Fiverr_Logo_2022.svg" alt="Fiverr" width="80" height="25" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
   <a href="https://kaggle.com/minhajasghar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Kaggle" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:minhaj.email@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
