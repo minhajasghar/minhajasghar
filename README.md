@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minhaj Asghar</h1>
+<h1 align="center">Hi, I'm Minhaj Asghar</h1>
 
 <p align="center">
   🚀 A 5th semester <b>BS Artificial Intelligence</b> student passionate about solving real-world problems with code.  
