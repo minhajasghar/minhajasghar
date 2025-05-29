@@ -37,7 +37,7 @@
   <a href="https://kaggle.com/minhajasghar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:minhaj.email@example.com" target="_blank">
+  <a href="mailto:minhajasghar5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
