@@ -60,6 +60,4 @@
 
 ## 🔥 GitHub Streak  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=minhajasghar&theme=radical&hide_border=false"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=minhajasghar&theme=radical&hide_border=false"/> </p>
