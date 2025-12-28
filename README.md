@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Minhaj Asghar</h1>
 
 <p align="center">
-  🚀 A 5th semester <b>BS Artificial Intelligence</b> student passionate about solving real-world problems with AI.  
+  🚀 A 6th semester <b>BS Artificial Intelligence</b> student passionate about solving real-world problems with AI.  
   Skilled in <b>Python, Machine Learning, NLP, Computer Vision, and Generative AI</b>.  
   Exploring the power of <b>LangChain, RAG Systems, and AI Automation</b>.
 </p>
