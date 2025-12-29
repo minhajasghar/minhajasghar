@@ -22,7 +22,6 @@
 ## 💼 Projects  
 
 - **Chatbot using RAG (LangChain, Python):** Built a document Q&A chatbot using semantic chunking & PDF/web loaders; implemented retrieval-augmented generation for accurate responses.  
-- **WhatsApp Agent (n8n, APIs):** Automated WhatsApp replies via workflow integration & dynamic API responses, enabling 24/7 smart interaction.  
 - **Phish Guard:** Designed ML model to detect phishing URLs using feature engineering & supervised learning; hosted on GitHub with reproducible workflows.  
 - **Smart Attendance (OpenCV):** Developed real-time facial recognition attendance system with image storage for student identification.  
 
