@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Minhaj Asghar</h1>
 
 <p align="center">
-  AI Intern focused on Computer Vision and Machine Learning.  
-  I work on building practical AI solutions and applying them to real-world problems.  
-  Currently exploring RAG systems, AI automation, and scalable ML workflows.
+AI developer focused on Machine Learning and Computer Vision, building real-world solutions using Python and Generative AI tools.
 </p>
 
 ---
