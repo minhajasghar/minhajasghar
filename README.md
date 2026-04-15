@@ -10,10 +10,10 @@ AI developer focused on Machine Learning and Computer Vision, building real-worl
 
 - **Programming & ML:** Python, Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation  
 - **Computer Vision & NLP:** OpenCV, NLTK, Transformers, Text & Image Processing  
-- **Libraries & Tools:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib  
-- **GenAI & Automation:** LangChain, RAG Systems, AI Agents, n8n  
-- **Data Handling:** Preprocessing, Cleaning, API Integration, SQL  
-- **Platforms:** Jupyter Notebook, Google Colab, GitHub  
+- **Libraries & Tools:** Pandas, NumPy, scikit-learn, Matplotlib  
+- **GenAI & Automation:** LangChain, RAG Systems, n8n  
+- **Data Handling:** Preprocessing, Cleaning, API Integration, MySQL  
+- **Platforms:** Jupyter Notebook, VS Code, Google Colab, GitHub  
 
 ---
 
