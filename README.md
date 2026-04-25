@@ -19,8 +19,8 @@ AI developer focused on Machine Learning and Computer Vision, building real-worl
 
 ## 💼 Projects  
 
-- **Stafflytics AI (Computer Vision, Flask, YOLO):** Built an intelligent restaurant business intelligence system with real-time monitoring, face recognition, and automated reporting.
-- **SmartAttend AI (Computer Vision, Flask, YOLO):** Built an intelligent office attendance & productivity system with real-time monitoring, face recognition, and automated reporting.
+- **Stafflytics AI (Computer Vision, Flask, YOLO):** A specialized **Restaurant BI Suite** that tracks staff movement, manages peak-traffic events, and calculates labor ROI using real-time vision analytics.
+- **SmartAttend AI (Computer Vision, Flask, YOLO):** An **Office Productivity & Attendance System** designed for corporate environments, featuring automated clock-ins, meeting room tracking, and employee presence heatmaps.
 - **Chatbot using RAG (LangChain, Python):** Built a document Q&A chatbot using semantic chunking & PDF/web loaders; implemented retrieval-augmented generation for accurate responses.  
 - **Phish Guard:** Designed ML model to detect phishing URLs using feature engineering & supervised learning; hosted on GitHub with reproducible workflows.  
 
