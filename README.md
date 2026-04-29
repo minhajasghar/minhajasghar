@@ -35,6 +35,10 @@ AI developer focused on Machine Learning and Computer Vision, building real-worl
   <a href="mailto:minhajasghar5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+    <a href="https://minhaj-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 </p>
 
 ---
