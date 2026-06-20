@@ -53,9 +53,11 @@ AI/ML Engineer focused on building real-world Computer Vision and Generative AI 
 
 ## 💼 Featured Projects
 
+
 ### 🎨 Brandflux (Next.js, FastAPI, Gemini AI)
-**AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
-**---
+AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
+
+---
 
 ### 🚀 Stafflytics AI (YOLO, Flask)
 Real-time restaurant intelligence system that tracks staff movement, analyzes peak-hour activity, and provides operational insights to improve efficiency and labor ROI.
