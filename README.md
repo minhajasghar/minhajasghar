@@ -79,7 +79,7 @@ AI-powered attendance and workplace monitoring system with automated check-ins, 
 
 ---
 
-### 🤖 [RAG Chatbot](https://github.com/minhajasghar/rag-chatbot) — Document-Aware AI Assistant
+### 🤖 [RAG Chatbot](https://github.com/minhajasghar/rag-medical-bot) — Document-Aware AI Assistant
 `LangChain` `Python` `Vector Search` `PDF Ingestion`
 
 A document-aware chatbot using retrieval-augmented generation with semantic chunking, vector search, and PDF/web data ingestion for accurate Q&A.
