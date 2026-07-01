@@ -53,31 +53,34 @@ AI/ML Engineer focused on building real-world Computer Vision and Generative AI 
 
 ## 💼 Featured Projects
 
-
-### 🎨 Brandflux (Next.js, FastAPI, Gemini AI)
-AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
+### 🏥 DocSlot (Next.js, Node.js, SQLite)
+Full-stack clinic management system with multi-doctor support, live token-based queue, 
+patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp 
+notifications — built for real-world clinic use.
 
 ---
 
-### 🚀 Stafflytics AI (YOLO, Flask)
-Real-time restaurant intelligence system that tracks staff movement, analyzes peak-hour activity, and provides operational insights to improve efficiency and labor ROI.
+### 🎨 BrandFlux (Next.js, FastAPI, Gemini AI)
+AI-powered brand content generator that scrapes a website to extract brand identity 
+and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
+
+---
+
+### 🚀 Stafflytics AI (YOLOv8, Flask)
+Real-time restaurant intelligence system that tracks staff movement, analyzes peak-hour 
+activity, and provides operational insights to improve efficiency and labor ROI.
 
 ---
 
 ### 📊 SmartAttend AI (YOLO, Flask)
-AI-powered attendance and workplace monitoring system with automated check-ins, employee tracking, and productivity heatmaps for corporate environments.
+AI-powered attendance and workplace monitoring system with automated check-ins, 
+employee tracking, and productivity heatmaps for corporate environments.
 
 ---
 
 ### 🤖 RAG Chatbot (LangChain, Python)
-A document-aware chatbot using retrieval-augmented generation with semantic chunking, vector search, and PDF/web data ingestion for accurate Q&A.
-
----
-
-### 🛡️ Phish Guard (Machine Learning)
-A phishing URL detection system using feature engineering and supervised ML models to classify malicious links with high accuracy.
-
----
+A document-aware chatbot using retrieval-augmented generation with semantic chunking, 
+vector search, and PDF/web data ingestion for accurate Q&A.---
 
 ## 🎯 Current Focus
 
