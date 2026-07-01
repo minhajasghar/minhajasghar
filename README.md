@@ -80,7 +80,9 @@ employee tracking, and productivity heatmaps for corporate environments.
 
 ### 🤖 RAG Chatbot (LangChain, Python)
 A document-aware chatbot using retrieval-augmented generation with semantic chunking, 
-vector search, and PDF/web data ingestion for accurate Q&A.---
+vector search, and PDF/web data ingestion for accurate Q&A.
+
+---
 
 ## 🎯 Current Focus
 
