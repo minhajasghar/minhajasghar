@@ -84,7 +84,7 @@ Full-scale internal project management tool built for TNT Innovations — role-b
 
 ---
 
-### 🌱 MRS Agro Chemicals — Agri E-Commerce & Admin Platform
+### 🌱 [MRS Agro Chemicals](https://github.com/minhajasghar/mrs-agro-chemicals) — Agri E-Commerce & Admin Platform
 `Next.js 14` `Tailwind` `Node.js` `Prisma` `PostgreSQL` `JWT`
 
 Client project: dual marketing/catalog websites (seeds & pesticides) plus a unified admin portal for inventory, orders, and content management — built end-to-end for a real agribusiness client.
