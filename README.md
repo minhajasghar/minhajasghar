@@ -96,7 +96,7 @@ Client project: dual marketing/catalog websites (seeds & pesticides) plus a unif
 
 Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
 
-
+---
 
 
 ## 🎯 Current Focus
