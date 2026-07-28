@@ -14,7 +14,8 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 - 👁️ Specialized in Computer Vision — YOLO, OpenCV, real-time tracking systems
 - 🤖 Building LLM apps with LangChain, RAG pipelines, and Gemini AI
 - 🌐 Full-Stack development with Next.js, Node.js, FastAPI, and Flask
-- 💼 Freelance developer — delivering AI and web products to real clients
+- 🖥️ Deploying and managing production systems on VPS (Nginx, PM2, SSL) — not just Vercel
+- 💼 Freelance developer & co-founder — delivering AI and web products to real clients
 - 🔧 Passionate about turning ideas into working, deployable systems
 
 ---
@@ -29,6 +30,7 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 ### 👁️ Computer Vision
 - YOLO (Object Detection & Pose Estimation)
 - OpenCV — tracking, heatmaps, real-time processing
+- RTSP/IP Camera integration for live analytics
 - Face Recognition Systems
 
 ### 🧠 NLP & Generative AI
@@ -39,36 +41,26 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 ### 🌐 Full-Stack Development
 - **Frontend:** Next.js 14, React, Tailwind CSS
 - **Backend:** Node.js, Express.js, FastAPI, Flask
-- **Databases:** SQLite, MySQL
-- **Auth:** JWT, session management
+- **Databases:** SQLite, MySQL, PostgreSQL (Prisma)
+- **Auth:** JWT, role-based access control, session management
+
+### 🚀 DevOps & Deployment
+- VPS deployment (Contabo) — Nginx, PM2, SSL
+- Vercel, Railway (managed hosting)
+- Git & GitHub, CI/CD basics
 
 ### 📊 Data & Tools
 - Python, Pandas, NumPy
 - Git & GitHub, VS Code, Jupyter Notebook
-- Vercel, Railway (deployment)
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🚀 [Stafflytics AI](https://github.com/minhajasghar/stafflytics-ai) — Restaurant Intelligence System
-`YOLOv8` `Flask` `OpenCV` `Gemini API`
+`YOLOv8-Pose` `Flask` `OpenCV` `RTSP` `Gemini API`
 
-Real-time restaurant intelligence system that tracks staff movement, analyzes peak-hour activity, and provides operational insights to improve efficiency and labor ROI.
-
----
-
-### 📊 [SmartAttend AI](https://github.com/minhajasghar/smartattend-ai) — AI Attendance System
-`YOLO` `Flask` `Face Recognition` `OpenCV`
-
-AI-powered attendance and workplace monitoring system with automated check-ins, employee tracking, and productivity heatmaps for corporate environments.
-
----
-
-### 🏥 [DocSlot](https://github.com/minhajasghar/docslot) — Clinic Management System
-`Next.js` `Node.js` `SQLite` `JWT`
-
-Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
+Real-time restaurant intelligence system using live IP camera feeds to track staff movement, analyze peak-hour activity, automate salary/attendance insights, and send Telegram alerts — built for real-world deployment, not just a demo.
 
 ---
 
@@ -79,19 +71,41 @@ AI-powered brand content generator that scrapes a website to extract brand ident
 
 ---
 
-### 🤖 [RAG Chatbot](https://github.com/minhajasghar/rag-medical-bot) — Document-Aware AI Assistant
-`LangChain` `Python` `Vector Search` `PDF Ingestion`
+### 📊 [SmartAttend AI](https://github.com/minhajasghar/smartattend-ai) — Face Recognition Attendance System
+`YOLO11` `Flask` `Face Recognition` `OpenCV`
 
-A document-aware chatbot using retrieval-augmented generation with semantic chunking, vector search, and PDF/web data ingestion for accurate Q&A.
+AI-powered attendance and workplace monitoring system with automated check-ins, face recognition-based employee tracking, and productivity heatmaps for corporate environments — focused on identity verification, distinct from Stafflytics' movement/pose analytics.
+
+---
+### 📋 [TNT Pulse](https://github.com/minhajasghar/tnt-pulse) — Internal Project Management System
+`Next.js 14` `Node.js` `MySQL` `TypeScript` `PM2` `Nginx`
+
+Full-scale internal project management tool built for TNT Innovations — role-based access control, project/task/subscription tracking, an escalating alert engine, team management, and announcement broadcasting. Deployed independently on a self-managed VPS with PM2 + Nginx + SSL.
 
 ---
 
+### 🌱 MRS Agro Chemicals — Agri E-Commerce & Admin Platform
+`Next.js 14` `Tailwind` `Node.js` `Prisma` `PostgreSQL` `JWT`
+
+Client project: dual marketing/catalog websites (seeds & pesticides) plus a unified admin portal for inventory, orders, and content management — built end-to-end for a real agribusiness client.
+
+---
+
+### 🏥 [DocSlot](https://github.com/minhajasghar/docslot) — Clinic Management System
+`Next.js` `Node.js` `SQLite` `JWT`
+
+Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
+
+
+
+
 ## 🎯 Current Focus
 
+- Building an AI-powered client acquisition agent — automated lead discovery (Google Places API), personalized cold outreach, activity logging, and Telegram notifications on replies
+- Co-founding a tech & AI company, building SaaS products for the US market
 - End-to-end AI product building & deployment
 - LLM-based applications — RAG, Agents, tool use
-- Full-stack SaaS products for freelance clients
-- Computer Vision systems for real-world business problems
+- Production infrastructure — VPS deployment, process management, real client systems
 
 ---
 
