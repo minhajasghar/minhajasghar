@@ -51,20 +51,6 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 
 ## 💼 Featured Projects
 
-### 🏥 [DocSlot](https://github.com/minhajasghar/docslot) — Clinic Management System
-`Next.js` `Node.js` `SQLite` `JWT`
-
-Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
-
----
-
-### 🎨 [BrandFlux](https://github.com/minhajasghar/brandflux) — AI Brand Content Generator
-`Next.js` `FastAPI` `Gemini AI` `Web Scraping`
-
-AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
-
----
-
 ### 🚀 [Stafflytics AI](https://github.com/minhajasghar/stafflytics-ai) — Restaurant Intelligence System
 `YOLOv8` `Flask` `OpenCV` `Telegram API`
 
@@ -76,6 +62,20 @@ Real-time restaurant intelligence system that tracks staff movement, analyzes pe
 `YOLO` `Flask` `Face Recognition` `OpenCV`
 
 AI-powered attendance and workplace monitoring system with automated check-ins, employee tracking, and productivity heatmaps for corporate environments.
+
+---
+
+### 🏥 [DocSlot](https://github.com/minhajasghar/docslot) — Clinic Management System
+`Next.js` `Node.js` `SQLite` `JWT`
+
+Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
+
+---
+
+### 🎨 [BrandFlux](https://github.com/minhajasghar/brandflux) — AI Brand Content Generator
+`Next.js` `FastAPI` `Gemini AI` `Web Scraping`
+
+AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
 
 ---
 
