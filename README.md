@@ -52,7 +52,7 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 ## 💼 Featured Projects
 
 ### 🚀 [Stafflytics AI](https://github.com/minhajasghar/stafflytics-ai) — Restaurant Intelligence System
-`YOLOv8` `Flask` `OpenCV` `Telegram API`
+`YOLOv8` `Flask` `OpenCV` `Gemini API`
 
 Real-time restaurant intelligence system that tracks staff movement, analyzes peak-hour activity, and provides operational insights to improve efficiency and labor ROI.
 
