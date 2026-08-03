@@ -98,16 +98,6 @@ Full-stack clinic management system with multi-doctor support, live token-based 
 ---
 
 
-## 🎯 Current Focus
-
-- Building an AI-powered client acquisition agent — automated lead discovery (Google Places API), personalized cold outreach, activity logging, and Telegram notifications on replies
-- Co-founding a tech & AI company, building SaaS products for the US market
-- End-to-end AI product building & deployment
-- LLM-based applications — RAG, Agents, tool use
-- Production infrastructure — VPS deployment, process management, real client systems
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
