@@ -10,7 +10,7 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 
 ## 🧭 About Me
 
-- 🎓 BS Artificial Intelligence student
+- 🎓 Artificial Intelligence Undergraduate
 - 👁️ Specialized in Computer Vision — YOLO, OpenCV, real-time tracking systems
 - 🤖 Building LLM apps with LangChain, RAG pipelines, and Gemini AI
 - 🌐 Full-Stack development with Next.js, Node.js, FastAPI, and Flask
@@ -30,11 +30,10 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 ### 👁️ Computer Vision
 - YOLO (Object Detection & Pose Estimation)
 - OpenCV — tracking, heatmaps, real-time processing
-- RTSP/IP Camera integration for live analytics
+- RTSP/HLS Camera integration for live analytics
 - Face Recognition Systems
 
 ### 🧠 NLP & Generative AI
-- LangChain & RAG Pipelines
 - Gemini AI & Prompt Engineering
 - Transformers & Vector Search
 
@@ -92,7 +91,7 @@ Client project: dual marketing/catalog websites (seeds & pesticides) plus a unif
 ---
 
 ### 🏥 [DocSlot](https://github.com/minhajasghar/docslot) — Clinic Management System
-`Next.js` `Node.js` `SQLite` `JWT`
+`Next.js` `Node.js` `SQLite` `Whatsapp API`
 
 Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, analytics dashboard, and WhatsApp notifications — built for real-world clinic use.
 
