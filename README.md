@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://minhajasghar.vercel.app/">Portfolio & Projects</a>
+  🌐 <a href="https://minhajasghar.vercel.app/">View My Portfolio</a>
 </p>
 
 ---
