@@ -5,6 +5,8 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 <p align="center">
 🤖 AI Systems &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🧠 LLM Applications &nbsp;•&nbsp; 🌐 Full-Stack Development
 </p>
+🌐 **[Portfolio & Projects](https://minhajasghar.vercel.app/)**
+
 
 ---
 
