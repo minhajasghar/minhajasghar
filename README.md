@@ -14,8 +14,8 @@ AI/ML Engineer & Full-Stack Developer building real-world products with Computer
 - 👁️ Specialized in Computer Vision — YOLO, OpenCV, real-time tracking systems
 - 🤖 Building LLM apps with LangChain, RAG pipelines, and Gemini AI
 - 🌐 Full-Stack development with Next.js, Node.js, FastAPI, and Flask
-- 🖥️ Deploying and managing production systems on VPS (Nginx, PM2, SSL) — not just Vercel
-- 💼 Freelance developer & co-founder — delivering AI and web products to real clients
+- 🖥️ Deploying and managing production systems on VPS (Nginx, PM2, SSL) 
+- 💼 Freelance developer — delivering AI and web products to real clients
 - 🔧 Passionate about turning ideas into working, deployable systems
 
 ---
