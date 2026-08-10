@@ -130,10 +130,6 @@ Full-stack clinic management system with multi-doctor support, live token-based 
   <a href="mailto:minhajasghar5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://minhaj-asghar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
