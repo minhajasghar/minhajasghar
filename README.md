@@ -46,6 +46,30 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+<details>
+<summary><b>See breakdown by domain</b></summary>
+
+**Machine Learning & AI**
+- Supervised & Unsupervised Learning
+- Feature Engineering & Model Evaluation
+- Deep Learning & Neural Networks
+
+**Computer Vision**
+- YOLO (Object Detection & Pose Estimation) — YOLOv8, YOLO11
+- OpenCV — tracking, heatmaps, real-time video processing
+- RTSP/HLS camera integration for live analytics
+- Face Recognition Systems
+
+**NLP & Generative AI**
+- LLM application development (Gemini AI, prompt engineering)
+- LangChain, RAG (Retrieval-Augmented Generation) pipelines
+- Transformers & Vector Search
+- AI Agents — early exploration
+
+</details>
 
 **Web Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -72,20 +96,6 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Metrics
-
-<!--START_SECTION:metrics-->
-<!-- This section auto-updates via lowlighter/metrics GitHub Action -->
-<!--END_SECTION:metrics-->
-
-<details>
-<summary>⚙️ Set this up (one-time)</summary>
-
-Add `.github/workflows/metrics.yml` with the [lowlighter/metrics](https://github.com/lowlighter/metrics) action — it auto-generates and commits the stats image above daily.
-</details>
 
 ---
 
