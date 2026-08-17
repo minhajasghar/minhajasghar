@@ -46,11 +46,6 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-<details>
-<summary><b>See breakdown by domain</b></summary>
 
 **Machine Learning & AI**
 - Supervised & Unsupervised Learning
@@ -68,8 +63,6 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 - LangChain, RAG (Retrieval-Augmented Generation) pipelines
 - Transformers & Vector Search
 - AI Agents — early exploration
-
-</details>
 
 **Web Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
