@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Minhaj Asghar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer+%26+Full-Stack+Developer;Computer+Vision+%7C+Generative+AI+%7C+Web+Systems;Building+real-world+products,+not+just+demos;&font=Fira+Code&center=true&width=550&height=45&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer+%26+Full-Stack+Developer;Computer+Vision+%7C+Generative+AI+%7C+Web+Systems;Building+real-world+products,+not+just+demos;&font=Fira+Code&center=true&width=750&height=50&color=36BCF7&vCenter=true&size=22&pause=2000">
 </p>
 
 <p align="center">
@@ -47,23 +47,6 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat&logo=google&logoColor=white)
 
-**Machine Learning & AI**
-- Supervised & Unsupervised Learning
-- Feature Engineering & Model Evaluation
-- Deep Learning & Neural Networks
-
-**Computer Vision**
-- YOLO (Object Detection & Pose Estimation) — YOLOv8, YOLO11
-- OpenCV — tracking, heatmaps, real-time video processing
-- RTSP/HLS camera integration for live analytics
-- Face Recognition Systems
-
-**NLP & Generative AI**
-- LLM application development (Gemini AI, prompt engineering)
-- LangChain, RAG (Retrieval-Augmented Generation) pipelines
-- Transformers & Vector Search
-- AI Agents — early exploration
-
 **Web Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -89,6 +72,38 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🎯 Core Expertise
+
+**Machine Learning & AI**
+- Supervised & Unsupervised Learning
+- Feature Engineering & Model Evaluation
+- Deep Learning & Neural Networks
+
+**Computer Vision**
+- YOLO (Object Detection & Pose Estimation) — YOLOv8, YOLO11
+- OpenCV — tracking, heatmaps, real-time video processing
+- RTSP/HLS camera integration for live analytics
+- Face Recognition Systems
+
+**NLP & Generative AI**
+- LLM application development (Gemini AI, prompt engineering)
+- LangChain, RAG (Retrieval-Augmented Generation) pipelines
+- Transformers & Vector Search
+- AI Agents — early exploration
+
+**Full-Stack Development**
+- Frontend: Next.js, React, Tailwind CSS
+- Backend: Node.js, Express.js, FastAPI, Flask, PHP/Laravel
+- Databases: MySQL, PostgreSQL (Prisma), SQLite
+- Auth: JWT, role-based access control, session management
+
+**DevOps & Deployment**
+- VPS deployment (Contabo) — Nginx, PM2, SSL/Certbot
+- Vercel, Railway (managed hosting)
+- Git & GitHub, CI/CD basics
 
 ---
 
