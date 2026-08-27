@@ -109,21 +109,25 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 
 ### 💼 Featured Projects
 
+**🤖 [Chaty-Waty](https://github.com/minhajasghar/chaty-waty)** — AI Multi-Platform Customer Service System 🔒
+`Laravel` `CrewAI` `Python` `Gemini API` `Meta APIs` `Lazada` `MySQL`
+Multi-platform AI customer service system automating support across Facebook, Instagram, WhatsApp, and e-commerce marketplaces with a CrewAI-based multi-agent architecture for context-aware, order-aware responses. *(Built at TNT Innovations — code private, architecture & demo in README)*
+
 **🚀 [Stafflytics AI](https://github.com/minhajasghar/stafflytics-ai)** — Restaurant Intelligence System
 `YOLOv8-Pose` `Flask` `OpenCV` `RTSP` `Gemini API`
 Real-time restaurant intelligence system using live IP camera feeds to track staff movement, analyze peak-hour activity, automate salary/attendance insights, and send Telegram alerts — built for real-world deployment, not just a demo.
-
-**🎨 [BrandFlux](https://github.com/minhajasghar/brandflux)** — AI Brand Content Generator
-`Next.js` `FastAPI` `Gemini AI` `Web Scraping`
-AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
 
 **📊 [SmartAttend AI](https://github.com/minhajasghar/smartattend-ai)** — Face Recognition Attendance System
 `YOLO11` `Flask` `Face Recognition` `OpenCV`
 AI-powered attendance and workplace monitoring system with automated check-ins, face recognition-based employee tracking, and productivity heatmaps for corporate environments.
 
-**📋 [TNT Pulse](https://github.com/minhajasghar/tnt-pulse)** — Internal Project Management System
-`Next.js 14` `Node.js` `MySQL` `TypeScript` `PM2` `Nginx`
-Full-scale internal project management tool for TNT Innovations — role-based access, project/task/subscription tracking, escalating alert engine, and announcement broadcasting. Deployed independently on a self-managed VPS.
+**🎨 [BrandFlux](https://github.com/minhajasghar/brandflux)** — AI Brand Content Generator
+`Next.js` `FastAPI` `Gemini AI` `Web Scraping`
+AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
+
+**📋 [TNT Pulse](https://github.com/minhajasghar/tnt-pulse)** — Internal Project Management System 🔒
+`Next.js 16` `Node.js` `MySQL` `TypeScript` `PM2` `Apache2`
+Full-scale internal project management tool for TNT Innovations — role-based access, project/task/subscription tracking, escalating alert engine, and announcement broadcasting. Deployed independently on a self-managed VPS. *(Code private, architecture & demo in README)*
 
 **🌱 [MRS Agro Chemicals](https://github.com/minhajasghar/mrs-agro-chemicals)** — Agri E-Commerce & Admin Platform
 `Next.js 14` `Tailwind` `Node.js` `Prisma` `PostgreSQL` `JWT`
