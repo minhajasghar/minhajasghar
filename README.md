@@ -117,10 +117,6 @@ Multi-platform AI customer service system automating support across Facebook, In
 `YOLOv8-Pose` `Flask` `OpenCV` `RTSP` `Gemini API`
 Real-time restaurant intelligence system using live IP camera feeds to track staff movement, analyze peak-hour activity, automate salary/attendance insights, and send Telegram alerts — built for real-world deployment, not just a demo.
 
-**📊 [SmartAttend AI](https://github.com/minhajasghar/smartattend-ai)** — Face Recognition Attendance System
-`YOLO11` `Flask` `Face Recognition` `OpenCV`
-AI-powered attendance and workplace monitoring system with automated check-ins, face recognition-based employee tracking, and productivity heatmaps for corporate environments.
-
 **🎨 [BrandFlux](https://github.com/minhajasghar/brandflux)** — AI Brand Content Generator
 `Next.js` `FastAPI` `Gemini AI` `Web Scraping`
 AI-powered brand content generator that scrapes a website to extract brand identity and auto-generates daily multi-platform social content for Instagram, LinkedIn, and Facebook.
@@ -132,10 +128,6 @@ Full-scale internal project management tool for TNT Innovations — role-based a
 **🌱 [MRS Agro Chemicals](https://github.com/minhajasghar/mrs-agro-chemicals)** — Agri E-Commerce & Admin Platform
 `Next.js 14` `Tailwind` `Node.js` `Prisma` `PostgreSQL` `JWT`
 Client project: dual marketing/catalog websites plus a unified admin portal for inventory, orders, and content management — built end-to-end for a real agribusiness client.
-
-**🏥 [DocSlot](https://github.com/minhajasghar/docslot)** — Clinic Management System
-`Next.js` `Node.js` `SQLite` `WhatsApp API`
-Full-stack clinic management system with multi-doctor support, live token-based queue, patient self-booking portal, billing tracker, and WhatsApp notifications — built for real-world clinic use.
 
 ---
 
