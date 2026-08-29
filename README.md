@@ -112,6 +112,7 @@ Artificial Intelligence undergraduate and AI Intern at **TNT Innovations**, buil
 **🤖 [Chaty-Waty](https://github.com/minhajasghar/chaty-waty)** — AI Multi-Platform Customer Service System 🔒
 `Laravel` `CrewAI` `Python` `Gemini API` `Meta APIs` `Lazada` `MySQL`
 Multi-platform AI customer service system automating support across Facebook, Instagram, WhatsApp, and e-commerce marketplaces with a CrewAI-based multi-agent architecture for context-aware, order-aware responses. *(Built at TNT Innovations — code private, architecture & demo in README)*
+↳ AI Agent: [CrewAI-MySQL-Agent](https://github.com/minhajasghar/CrewAI-MySQL-Agent)
 
 **🚀 [Stafflytics AI](https://github.com/minhajasghar/stafflytics-ai)** — Restaurant Intelligence System
 `YOLOv8-Pose` `Flask` `OpenCV` `RTSP` `Gemini API`
