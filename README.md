@@ -27,7 +27,7 @@ AI Engineer at **TNT Innovations** and BSAI Undergraduate, building production-g
 
 **Snapshot:**
 - 🎓 BS Artificial Intelligence
-- 💼 AI Intern @ TNT Innovations — Computer Vision & GenAI systems
+- 💼 AI Engineer @ TNT Innovations — Computer Vision & GenAI systems
 - 🚀 Co-founding an AI/tech venture (in progress)
 - 🔧 Freelance developer — real clients, deployed products, not just prototypes
 
