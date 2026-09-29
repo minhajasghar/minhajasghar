@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhajasghar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://minhajasghar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=vercel" /></a>
+  <img src="https://komarev.com/ghpvc/?username=minhajasghar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://minhajasghar.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=vercel" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
