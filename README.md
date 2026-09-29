@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhajasghar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminhajasghar&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
   <a href="https://minhajasghar.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=vercel" alt="Portfolio" />
   </a>
