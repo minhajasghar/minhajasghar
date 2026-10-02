@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 
-AI Engineer at **TNT Innovations** and BSAI Undergraduate, building production-grade computer vision and GenAI systems alongside full-stack platforms — for internal tools and real client projects. Also an active freelance developer, shipping AI and web products end-to-end: from model to deployment.
+AI Engineer & Full-Stack Developer at **TNT Innovations** and BSAI Undergraduate, building production-grade computer vision and GenAI systems alongside full-stack platforms — for internal tools and real client projects. Also an active freelance developer, shipping AI and web products end-to-end: from model to deployment.
 
 **Currently focused on:**
 - 👁️ Real-time computer vision systems — YOLO, pose estimation, RTSP camera analytics
