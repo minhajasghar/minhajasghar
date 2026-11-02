@@ -30,7 +30,6 @@ AI Engineer & Full-Stack Developer at **TNT Innovations** and BSAI Undergraduate
 **Snapshot:**
 - 🎓 BS Artificial Intelligence
 - 💼 AI Engineer @ TNT Innovations — Computer Vision & GenAI systems
-- 🚀 Co-founding an AI/tech venture (in progress)
 - 🔧 Freelance developer — real clients, deployed products, not just prototypes
 
 ---
